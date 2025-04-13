@@ -50,4 +50,3 @@ Bienvenido a mi perfil de GitHub. Soy Victor Asencio., un Ingeniero de Sistemas 
 ## Estadísticas del Repositorio
 ![Vicedu Coders' Github stats](https://github-readme-stats.vercel.app/api?username=viceducoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viceducoders&layout=compact&theme)
