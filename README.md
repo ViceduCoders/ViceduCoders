@@ -1,6 +1,6 @@
 ## Bienvenid@ 👋 soy Victor
 
-![Banner de Victor Asencio](Banner-profesional.png)
+![Banner de Victor Asencio](Banner-Asencio.png)
 
 
 ## About me 🚀
