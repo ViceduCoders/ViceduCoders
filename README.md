@@ -4,15 +4,12 @@ Bienvenid@ 👋 soy Victor
 
 
 ## About me 🚀
-🎓 I'm currently finishing my degree in Computer Systems Engineering.
-
-🔭 I'm working in database administration.
-
-💡 Passionate about programming, full-stack development, and data science.
-
-🧠 Constantly learning new technologies like Python, Java, and JavaScript.
-
+🎓 I'm currently finishing my degree in Computer Systems Engineering.  
+🔭 I'm working in database administration.  
+💡 Passionate about programming, full-stack development, and data science.  
+🧠 Constantly learning new technologies like Python, Java, and JavaScript.  
 ⚡ I use technology creatively and love solving real-world problems.
+
 
 ## Technologies 💻
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
