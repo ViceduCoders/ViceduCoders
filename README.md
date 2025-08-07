@@ -2,11 +2,16 @@ Bienvenid@ 👋 soy Victor
 
 ![Banner de Victor Asencio](Banner-profesional.png)
 
+
 ## About me 🚀
 🎓 I'm currently finishing my degree in Computer Systems Engineering.
+
 🔭 I'm working in database administration.
+
 💡 Passionate about programming, full-stack development, and data science.
+
 🧠 Constantly learning new technologies like Python, Java, and JavaScript.
+
 ⚡ I use technology creatively and love solving real-world problems.
 
 ## Technologies 💻
