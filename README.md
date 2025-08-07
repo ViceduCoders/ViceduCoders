@@ -1,10 +1,15 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR4OXRrdTJ5eTlldGJyam0yaHUzemZhamV6M3FyNGE1YmR4eDg3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fX5cZemSfX1cMZYuUJ/giphy.gif" width="100"/> Bienvenid@ 👋 soy Victor
+Bienvenid@ 👋 soy Victor
 
-![Banner de Victor Asencio](Banner-Victor-Asencio.png)
+![Banner de Victor Asencio](Banner-profesional.png)
 
-Bienvenido a mi perfil de GitHub. Soy Victor Asencio., un Ingeniero de Sistemas Computacionales. Especialista en base de datos y Desarrollador Full Stack apasionado por la programación, la tecnología y la ciencia. Tengo experiencia en la administración de base de datos, y en lenguajes como C#, Java, SQL, HTML, CSS, JavaScript, PHP y Python.
+## About me 🚀
+🎓 I'm currently finishing my degree in Computer Systems Engineering.
+🔭 I'm working in database administration.
+💡 Passionate about programming, full-stack development, and data science.
+🧠 Constantly learning new technologies like Python, Java, and JavaScript.
+⚡ I use technology creatively and love solving real-world problems.
 
-## Tecnologías 💻
+## Technologies 💻
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,6 +52,6 @@ Bienvenido a mi perfil de GitHub. Soy Victor Asencio., un Ingeniero de Sistemas 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Estadísticas del Repositorio
+## Repository Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=viceducoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)
 
