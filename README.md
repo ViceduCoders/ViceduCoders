@@ -2,11 +2,13 @@
 
 ![Banner de Victor Asencio](portada.png)
 
-## About me 🚀
-🎓 I am currently finishing my degree in Computer Systems Engineering. 
+
+## About me 🚀  
+🎓 I am currently finishing my degree in Computer Systems Engineering.  
 💡 Passionate about Programming, Full-Stack Development, and Data Science.  
-🧠 Constantly learning new technologies. 
-⚡ I use technology creatively and love solving real-world problems.
+🧠 Constantly learning new technologies.  
+⚡ I use technology creatively and love solving real-world problems.  
+
 
 
 ## Technologies 💻
