@@ -5,10 +5,11 @@
 
 ## About me 🚀
 🎓 I am finishing my degree in **Computer Systems Engineering**.  
-💻 I am passionate about **full-stack development**, **programming**, and **data science**.  
+💻 I am passionate about **programming**, **data science**, and **cybersecurity**.  
 📚 I am a **constant learner**, always exploring and applying new technologies.  
 🚀 I enjoy leveraging **technology in innovative ways** to solve real-world challenges.  
 🛠️ I currently work as a **systems administrator** and **database administrator (DBA)**.  
+ 
 
 
 
