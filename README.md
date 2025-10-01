@@ -3,12 +3,12 @@
 ![Banner de Victor Asencio](portada.png)
 
 
-## About me 🚀  
-🎓 Finishing my degree in Computer Systems Engineering.
-💻 Passionate about Full-Stack Development, Programming, and Data Science.
-📚 Lifelong learner, always exploring and applying new technologies.
-🚀 I enjoy leveraging technology in innovative ways to solve real-world challenges.
-🛠️ Currently working as a Systems Administrator and Database Administrator (DBA).
+## About me 🚀
+🎓 I am finishing my degree in **Computer Systems Engineering**.  
+💻 I am passionate about **full-stack development**, **programming**, and **data science**.  
+📚 I am a **constant learner**, always exploring and applying new technologies.  
+🚀 I enjoy leveraging **technology in innovative ways** to solve real-world challenges.  
+🛠️ I currently work as a **systems administrator** and **database administrator (DBA)**.  
 
 
 
