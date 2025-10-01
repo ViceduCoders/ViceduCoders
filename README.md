@@ -4,11 +4,11 @@
 
 
 ## About me 🚀  
-👨‍🎓 Finishing my degree in Computer Systems Engineering.
+🎓 Finishing my degree in Computer Systems Engineering.
 💻 Passionate about Full-Stack Development, Programming, and Data Science.
-📚 Continuously learning, exploring and applying new technologies.
+📚 Lifelong learner, always exploring and applying new technologies.
 🚀 I enjoy leveraging technology in innovative ways to solve real-world challenges.
-🛠️ I currently work as a Systems Administrator and DBA.  
+🛠️ Currently working as a Systems Administrator and Database Administrator (DBA).
 
 
 
